@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "S:/CS262/20Questions/cmake-build-debug/CMakeFiles/20Questions.dir/embed.manifest"
